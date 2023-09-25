@@ -27,12 +27,16 @@ git clone https://github.com/harlanevans/psychic-telegram.gitependencies**:
 
 Navigate to the project directory and install any necessary dependencies. Since the project is in its early stages, this may vary, but typically you can use npm or yarn for Node.js projects.
 
-```cd circles-api```
-```npm install```
+```
+cd circles-api
+npm install
+```
 
 3. **Run the Project**: Start the Node.js application, and if there is any API functionality, you can test it by making HTTP requests to the API endpoints.
 
-```npm start```
+```
+npm start
+```
 
 
 4. **Containerization**: If you want to explore containerization with Docker, there may be Dockerfiles and instructions included in the project in the future. You can build and run Docker containers as per the provided guidance.
