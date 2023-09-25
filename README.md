@@ -21,7 +21,11 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using the following command:
 
-```git clone https://github.com/harlanevans/psychic-telegram.gitependencies**: Navigate to the project directory and install any necessary dependencies. Since the project is in its early stages, this may vary, but typically you can use npm or yarn for Node.js projects.```
+```
+git clone https://github.com/harlanevans/psychic-telegram.gitependencies**: 
+```
+
+Navigate to the project directory and install any necessary dependencies. Since the project is in its early stages, this may vary, but typically you can use npm or yarn for Node.js projects.
 
 ```cd circles-api```
 ```npm install```
