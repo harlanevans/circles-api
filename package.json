@@ -1,0 +1,23 @@
+{
+  "name": "circles-api",
+  "version": "1.0.0",
+  "description": "Back end API for project Circles",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harlanevans/circles-api.git"
+  },
+  "author": "Harlan Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harlanevans/circles-api/issues"
+  },
+  "homepage": "https://github.com/harlanevans/circles-api#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
